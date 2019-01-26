@@ -6,3 +6,4 @@ describe "Application" do
     expect(last_response.body).to include ("Hello, my name is")
   end
 end
+
