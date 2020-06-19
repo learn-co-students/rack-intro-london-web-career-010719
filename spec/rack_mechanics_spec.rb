@@ -6,3 +6,4 @@ describe "MyServer" do
     expect(last_response.body).to include ("Hello")
   end
 end
+
